@@ -1,7 +1,14 @@
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import { useState } from "react";
-import { FiMail, FiMapPin, FiPhone, FiSend } from "react-icons/fi";
+import {
+  FiMail,
+  FiMapPin,
+  FiMessageCircle,
+  FiNavigation,
+  FiPhone,
+  FiSend,
+} from "react-icons/fi";
 import { useForm } from "@formspree/react";
 
 const Contact = () => {
@@ -73,6 +80,18 @@ const Contact = () => {
                 title="Phone"
                 value="+1 (251) 428-0531"
                 href="tel:+12514280531"
+              />
+              <ContactInfo
+                icon={<FiMessageCircle />}
+                title="WhatsApp"
+                value="+1 (251) 428-0531"
+                href="tel:+12514280531"
+              />
+              <ContactInfo
+                icon={<FiNavigation />}
+                title="Telegram"
+                value="@tony_man1992"
+                href="#"
               />
             </div>
 

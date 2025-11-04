@@ -1,5 +1,11 @@
 import { motion } from "framer-motion";
-import { FiGithub, FiMail } from "react-icons/fi";
+import {
+  FiGithub,
+  FiMail,
+  FiMessageCircle,
+  FiNavigation,
+  FiPhone,
+} from "react-icons/fi";
 
 const Hero = () => {
   const containerVariants = {
@@ -102,6 +108,14 @@ const Hero = () => {
             <SocialLink
               href="mailto:giantking0511@example.com"
               icon={<FiMail size={24} />}
+            />
+            <SocialLink
+              href="@tony_man1992"
+              icon={<FiNavigation size={24} />}
+            />
+            <SocialLink
+              href="tel:+12514280531"
+              icon={<FiMessageCircle size={24} />}
             />
           </motion.div>
         </div>
