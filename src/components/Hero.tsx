@@ -4,7 +4,6 @@ import {
   FiMail,
   FiMessageCircle,
   FiNavigation,
-  FiPhone,
 } from "react-icons/fi";
 
 const Hero = () => {
