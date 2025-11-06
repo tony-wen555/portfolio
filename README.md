@@ -126,7 +126,6 @@ Update the following in the component files:
 
 - Email address
 - Phone number
-- Location
 
 ### Colors
 
@@ -225,7 +224,6 @@ MIT License - feel free to use this template for your own portfolio.
 
 **Tony Wen**
 
-- Location: Wuhan, China
 - GitHub: https://github.com/tony-wen555
 - Email: giantking0511@gmail.com
 

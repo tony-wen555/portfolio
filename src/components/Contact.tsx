@@ -71,11 +71,6 @@ const Contact = () => {
                 href="mailto:giantking0511@gmail.com"
               />
               <ContactInfo
-                icon={<FiMapPin />}
-                title="Location"
-                value="Wuhan, China"
-              />
-              <ContactInfo
                 icon={<FiPhone />}
                 title="Phone"
                 value="+1 (251) 428-0531"
