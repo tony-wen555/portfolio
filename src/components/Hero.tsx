@@ -73,7 +73,7 @@ const Hero = () => {
           >
             With 10+ years of experience in full-stack development, specializing
             in cryptocurrency, blockchain technology, AI/ML, and modern web
-            applications. Based in Frankfurt, Germany 🇩🇪
+            applications.
           </motion.p>
 
           <motion.div
