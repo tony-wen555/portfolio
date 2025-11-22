@@ -3,7 +3,6 @@ import { useInView } from "react-intersection-observer";
 import { useState } from "react";
 import {
   FiMail,
-  FiMapPin,
   FiMessageCircle,
   FiNavigation,
   FiPhone,
