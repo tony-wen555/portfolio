@@ -22,7 +22,7 @@ const About = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <p className="text-gray-300 text-lg leading-relaxed">
-              I'm a passionate software engineer with over 15 years of
+              I'm a passionate software engineer with over 10+ years of
               experience building cutting-edge applications. My journey in tech
               has taken me from traditional web development to the exciting
               worlds of blockchain, AI, and cryptocurrency.
